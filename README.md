@@ -1,1 +1,1 @@
-# Bidirectional-LSTM
+# Fake News Classificer Using Bidirectional LSTM
